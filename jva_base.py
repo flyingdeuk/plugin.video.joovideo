@@ -76,7 +76,7 @@ class JVABase:
 
     # JOOVIDEO_LANDING_URL = "http://joovideo.net"
     # JOOVIDEO_LANDING_URL = "http://krtune.net"
-    JOOVIDEO_LANDING_URL = "http://krvideo.net"
+    JOOVIDEO_LANDING_URL = "http://jootune.net"
 
     ENTRY_FILENAME = "ViewLink"
 
